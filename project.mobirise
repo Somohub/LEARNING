@@ -49,11 +49,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "PRIMARY SCHOOLS ONLINE LEARNING",
+        "meta_descr": "WELCOME TO  E-LEARNING FOR THE KIDS & PRIMARY SCHOOLS ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/free-laptops-in-kenya-860x640.jpg"
       },
       "components": [
         {
